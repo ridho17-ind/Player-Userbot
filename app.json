@@ -1,5 +1,5 @@
 {
-    "name": "Music Player Userbot",
+    "name": "Player Music Userbot",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
     "repository": "https://github.com/ridho17-ind/Player-Userbot",
     "stack": "container",
