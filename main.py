@@ -21,9 +21,9 @@ from core import (
 
 
 REPO = """
-🤖 **Music Player**
-- Repo: [GitHub](https://github.com/ALBINPRAVEEN/MusicUserbot)
-- License: AGPL-3.0-or-later
+🚀 **Player Music Userbot**
+- Repo: [GitHub](https://github.com/ridho17-ind/Player-Userbot)
+- Credits : [ALBINPRAVEEN](https://github.com/ALBINPRAVEEN/MusicUserbot)
 """
 
 
@@ -40,7 +40,7 @@ async def repo(_, message: Message):
 )
 @handle_error
 async def ping(_, message: Message):
-    await message.reply_text(f"🤖 **Pong!**\n`{await pytgcalls.ping} ms`")
+    await message.reply_text(f"🚀 **Pong!**\n`{await pytgcalls.ping} ms`")
 
 
 @app.on_message(
