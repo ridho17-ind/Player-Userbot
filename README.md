@@ -1,10 +1,10 @@
-<h1 align= center><b>⭐️ Music Player Userbot⭐️</b></h1>
+<h1 align= center><b>Player Music Userbot</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 
-## 🚀 <a name="deploy"></a>Deploy
+## ⚙️ <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ridho17-ind/Player-Userbot)
 
 Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
@@ -12,7 +12,7 @@ Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/ALBINPRAVEEN/MusicUserbot
+$ git clone https://github.com/ridho17-ind/Player-Userbot
 $ cd MusicUserbot
 $ cp sample.env .env
 < edit .env with your own values >
@@ -59,5 +59,8 @@ Command | Description
 en    English
 ```
 ## 🛫 <a name="supports"></a>Supports
+
+## Credit Repository
+[ALBINPRAVEEN](https://github.com/ALBINPRAVEEN/MusicUserbot)
 
 For any kind of help join [our support group](https://t.me/musicwithalby).
