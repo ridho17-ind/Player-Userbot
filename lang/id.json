@@ -1,0 +1,27 @@
+{
+    "update": "⚙️ **Memperbarui...**",
+    "restart": "🔋 **Memulai Ulang**",
+    "downloading": "🔈 **Sedang Memproses...**",
+    "errorMessage": "⛔ **Terjadi Kesalahan!**",
+    "invalidFile": "⚙️ **Perintah Tidak Valid**",
+    "langSet": "🗣 **Bahasa Di Ubah Ke `%s`!**",
+    "loopOff": "🔂 **Putaran Musik Dinonaktifkan!**",
+    "loopOn": "🔂 **Putaran Musik Diaktifkan!**",
+    "audioMode": "🔈 **Mode Audio Diaktifkan!**",
+    "videoMode": "🎥 **Mode Video Diaktifkan!**",
+    "notFound": "⛔ **Tidak Ditemukan, Coba Lagi!**",
+    "notActive": "📸 **Tidak Ada Panggilan Grup Aktif!**
+    "notPlaying": "📸 **Tidak Ada yang Dimainkan!**",
+    "playing": "〄 **[%s](%s)\n├ Durasi: `%s`\n├ Memutar Di: `%s`\n├ Permintaan: %s**\n└ **Grup: @FlicksRobotSupport**",
+    "paused": "⏸ **Pemutaran Dijeda!**",
+    "resumed": "▶️ **Pemutaran Dilanjutkan!**",
+    "muted": "🔇 **Pemutaran Di Matikan!**",
+    "unmuted": "🔈 **Pemutaran Di Aktidkan!**",
+    "leaveVC": "⚙️ **Keluar Dari Obrolan Video!**",
+    "queueEmpty": "⚙️ **Antrian Kosong!**",
+    "queueExported": "📵 **%d Lagu Diekspor!**",
+    "queueImported": "📵 **%d Lagu Diimpor!**",
+    "replyToAFile": "👀 **Mohon Balas Audio/Video!**",
+    "addedToQueue": "⏰ **[%s](%s) Antrian Dalam Posisi %d**!",
+    "helpText": "🚀 **Perintah yang tersedia:**\n\n• <prefix>ping\nUsage: `check if alive or not`\n\n• <prefix>repo\nUsage: `show the bot source code`\n\n• <prefix>start | <prefix>help\nUsage: `show the help for commands`\n\n• <prefix>mode | <prefix>switch\nUsage: `switch the stream mode (audio/video)`\n\n• <prefix>p | <prefix>play [song name | youtube link]\nUsage: `play a song in vc, if already playing add to queue`\n\n• <prefix>radio | <prefix>stream [radio url | stream link]\nUsage: `play a live stream in vc, if already playing add to queue`\n\n• <prefix>pl | <prefix>playlist [youtube playlist link]\nUsage: `play the whole youtube playlist at once`\n\n• <prefix>skip | <prefix>next\nUsage: `skip to the next song`\n\n• <prefix>m | <prefix>mute\nUsage: `mute the current stream`\n\n• <prefix>um | <prefix>unmute\nUsage: `unmute the muted stream`\n\n• <prefix>ps | <prefix>pause\nUsage: `pause the current stream`\n\n• <prefix>rs | <prefix>resume\nUsage: `resume the paused stream`\n\n• <prefix>list | <prefix>queue\nUsage: `show the songs in the queue`\n\n• <prefix>mix | <prefix>shuffle\nUsage: `shuffle the queued playlist`\n\n• <prefix>loop | <prefix>repeat\nUsage: `enable or disable the loop mode`\n\n• <prefix>lang | language [language code]\nUsage: `set the bot language in a group`\n\n• <prefix>ip | <prefix>import\nUsage: `import queue from exported file`\n\n• <prefix>ep | <prefix>export\nUsage: `export the queue for import in future`\n\n• <prefix>stop | <prefix>leave\nUsage: `leave from vc and clear the queue`\n\n• <prefix>restart | <prefix>update\nUsage: `restart and update your music player`\n\n**Powered By: @xflskyzo**"
+}
