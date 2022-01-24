@@ -12,7 +12,7 @@
     "notFound": "⛔ **Not Found, Try Again!**",
     "notActive": "📸 **No Active Group Call!**",
     "notPlaying": "📸 **Nothing Is Playing!**",
-    "playing": "🚀 **[%s](%s)\n⏰ Duration: `%s`\n🧰 Playing On: `%s`\n🤡 Requested By: %s**\nSupport:@musicwithalby",
+    "playing": "〄 **[%s](%s)\n├ Duration: `%s`\n├ Playing On: `%s`\n├ Requested By: %s**\n└ **Support: @FlicksRobotSupport**",
     "paused": "⏸ **Paused Stream!**",
     "resumed": "▶️ **Resumed Stream!**",
     "muted": "🔇 **Muted Stream!**",
