@@ -13,7 +13,7 @@ Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
 ```bash
 $ git clone https://github.com/ridho17-ind/Player-Userbot
-$ cd MusicUserbot
+$ cd Player-Userbot
 $ cp sample.env .env
 < edit .env with your own values >
 $ sudo docker build . -t musicplayer
