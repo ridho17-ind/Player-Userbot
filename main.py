@@ -98,7 +98,6 @@ async def play_stream(_, message: Message, lang):
             lang["addedToQueue"] % (song.title, song.yt_url, len(queue)),
             disable_web_page_preview=True,
         )
-        await delete_messages([message, k])
 
 
 @app.on_message(
@@ -302,7 +301,6 @@ async def queue_list(_, message: Message, lang):
         k = await message.reply_text(str(queue), disable_web_page_preview=True)
     else:
         k = await message.reply_text(lang["queueEmpty"])
-    await delete_messages([message, k])
 
 
 @app.on_message(
@@ -321,7 +319,6 @@ async def shuffle_list(_, message: Message, lang):
         k = await message.reply_text(str(shuffled), disable_web_page_preview=True)
     else:
         k = await message.reply_text(lang["queueEmpty"])
-    await delete_messages([message, k])
 
 
 @app.on_message(
@@ -391,7 +388,6 @@ async def set_lang(_, message: Message, lang):
             k = await message.reply_text(lang["langSet"] % lng)
         else:
             k = await message.reply_text(lang["notFound"])
-        await delete_messages([message, k])
 
 
 @app.on_message(
