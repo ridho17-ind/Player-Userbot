@@ -22,8 +22,8 @@ from core import (
 
 REPO = """
 🚀 **Player Music Userbot**
-- Repo: [GitHub](https://github.com/ridho17-ind/Player-Userbot)
-- Credits : [ALBINPRAVEEN](https://github.com/ALBINPRAVEEN/MusicUserbot)
+**- Repo: [GitHub](https://github.com/ridho17-ind/Player-Userbot)**
+**- Credits : [ALBINPRAVEEN](https://github.com/ALBINPRAVEEN/MusicUserbot)**
 """
 
 
