@@ -1,5 +1,3 @@
-
-
 import os
 import json
 from config import config
@@ -12,7 +10,12 @@ from pyrogram.raw.types import InputPeerChannel
 from pyrogram.raw.functions.phone import CreateGroupCall
 from pytgcalls.exceptions import GroupCallNotFound, NoActiveGroupCall
 from pytgcalls.types.stream import StreamAudioEnded, StreamVideoEnded
-from core.decorators import language, register, only_admins, handle_error
+from core.decorators import (
+    language,
+    register,
+    only_admins,
+    handle_error,
+)
 from core import (
     app, ydl, alby, search, restart, get_group, get_queue, pytgcalls,
     set_group, set_title, all_groups, clear_queue, skip_stream, check_yt_url,
