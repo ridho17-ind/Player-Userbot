@@ -10,7 +10,7 @@
     "audioMode": "🔈 **Mode Audio Diaktifkan!**",
     "videoMode": "🎥 **Mode Video Diaktifkan!**",
     "notFound": "⛔ **Tidak Ditemukan, Coba Lagi!**",
-    "notActive": "📸 **Tidak Ada Panggilan Grup Aktif!**
+    "notActive": "📸 **Tidak Ada Panggilan Grup Aktif!**",
     "notPlaying": "📸 **Tidak Ada yang Dimainkan!**",
     "playing": "〄 **[%s](%s)\n├ Durasi: `%s`\n├ Memutar Di: `%s`\n├ Permintaan: %s**\n└ **Grup: @FlicksRobotSupport**",
     "paused": "⏸ **Pemutaran Dijeda!**",
