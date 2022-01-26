@@ -25,8 +25,8 @@ from core import (
 
 REPO = """
 🚀 **Player Music Userbot**
-**- Repo: [GitHub](https://github.com/ridho17-ind/Player-Userbot)**
-**- Credits : [ALBINPRAVEEN](https://github.com/ALBINPRAVEEN/MusicUserbot)**
+**- Repo: [Player-Userbot](https://github.com/ridho17-ind/Player-Userbot)**
+**- PyTgCalss : 0.8.4
 """
 
 
